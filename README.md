@@ -1,2 +1,17 @@
-# Student-Record-Management-System
-Student Record Management System is a Java-based console application  designed to manage student data such as ID, name, age, course, marks. This system allows adding, viewing, updating, deleting, and searching student records.  I
+Student Record Management System
+
+A simple Java-based project to manage student records. This system allows users to perform various operations such as adding, viewing, updating, deleting, and searching for student information.
+
+## 🛠️ Features
+
+- Add new student record
+- View all student records
+- Search student by ID or Name
+- Update student details
+- Delete student record
+
+## 🧰 Tech Stack
+
+- Java (Core Java / JDBC)
+- Eclipse / IntelliJ / NetBeans
+- Git & GitHubI
